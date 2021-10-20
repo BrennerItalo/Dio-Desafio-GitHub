@@ -1,1 +1,4 @@
 Anotações e links para o Bootcamp Impulse React
+
+Verbos Protocolo HTTPS:
+Algebra linear:
