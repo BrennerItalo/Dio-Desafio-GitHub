@@ -1,0 +1,6 @@
+let N = gets();  
+var i = 1
+while(i < 11){
+  print(i + " x " + N + " = " + (N * i));
+  i++;    
+}

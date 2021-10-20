@@ -1,0 +1,17 @@
+let X = parseFloat(gets());
+switch(x){
+  case (X>=0 && X<=25):
+    print("Intervalo [0,25]");
+    break;
+  case (X>25 && X<=50):
+    print("Intervalo [25,50]");
+    break;
+    case (X>50 && X<=75):
+    print("Intervalo [50,75]");
+    break;
+  case (X>75 && X<=100):
+    print("Intervalo [75,100]");
+    break;
+  default :
+    print("Fora de intervalo");
+}
