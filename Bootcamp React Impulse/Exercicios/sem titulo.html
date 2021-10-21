@@ -1,35 +1,37 @@
 <!DOCTYPE html>
 <html>
+    <!-- Exercício meramente ilustrativo para compreensão de conceitos básicos do Html5 e Css3 -->
     <head>
         <meta charset="utf-8">
         <title>Brenner Italo</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
-            <img src="brennerFoto.png" alt="Ilustração do meu rosto">
-            <h1>Brenner Italo</h1>
+            <img src="brennerFoto.png" alt="Ilustração do meu rosto" class="imgHeader">
+            <h1 id="mainTitle">Brenner Italo</h1>
         </header>
         <section>
             <header>
-                <h2>Posts</h2>
+                <h2 class="subtitle">Posts</h2>
             </header>
-            <article>
+            <article class="post">
                 <header>
-                    <h3>Post #1</h3>
-                    <img src="htmlcode.png" alt="Editor de código como ilustração">
-                    <p>Criarei um hyperlink para meu perfil no LinkedIn: adicione o hyperlink no atributo href e o valor _blank no atributo target, assim o link será aberto em outra aba, desta forma:<a href="https://www.linkedin.com/in/brenner-italo/" target="_blank">@BrennerItalo</a></p>
+                    <h3 class="postTitle">Post #1</h3>
+                    <img src="htmlcode.png" alt="Editor de código como ilustração" class="postImage">
+                    <p class="postContent">Criarei um hyperlink para meu perfil no LinkedIn: adicione o hyperlink no atributo href e o valor _blank no atributo target, assim o link será aberto em outra aba, desta forma:<a href="https://www.linkedin.com/in/brenner-italo/" target="_blank">@BrennerItalo</a></p>
                 </header>    
             </article>
         </section>
         <footer>
-            <ol>
+            <ul class="contactList">
                 <li>
                     <a href="https://github.com/BrennerItalo" target="_blank">GitHub</a>
                 </li>
                 <li>
                     <a href="https://www.linkedin.com/in/brenner-italo/" target="_blank">Linkedin</a>
                 </li>
-            </ol>
+            </ul>
         </footer>        
     </body>
 </html>

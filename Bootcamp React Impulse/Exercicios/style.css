@@ -1,0 +1,56 @@
+body{
+    background-color: #f7f7f7;
+    font-family: Verdana;
+    width: 900px;
+    margin:auto;
+}
+.imgHeader{
+    border-radius: 50px;
+}
+#mainTitle,.subtitle, .postTitle{
+    color: #505050;
+}
+/* Formatando o estilo da fonte para o título */
+#mainTitle{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: line-through;
+    color: #505050;
+}
+.postTitle{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background-color: white;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+/*Exemplo de formatação para demonstrar o funcionamento do Box Model*/
+.postContent{
+    margin:0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+.postImage{
+    margin:  115px; 
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+/* Estilizando listas */
+.contactList{
+    list-style-type: "\1F44D";
+    padding-left: 15px;
+
+}
+.contactList li a{
+    text-decoration: none;
+}
