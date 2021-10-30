@@ -1,6 +1,11 @@
 Anotações e links para o Bootcamp Impulse React
 
 site Splash para procurar por imagens:https://unsplash.com
-site tiny png para remoção de metados desnecessários de imagens: https://www.tinypng.com
+site tiny png para remoção de metadados desnecessários de imagens: https://www.tinypng.com
+Mentoria 
 Verbos Protocolo HTTPS:
 Algebra linear:
+Mentoria dúvidas sobre JS:
+Diferença entre for in e foreach: O for in acessa apenas o index, já o foreach acessa o index e o conteúdo da variável.
+Link mdn mozila: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_ElemeOa
+Pesquisar sobre aplicação de Fetch e Axios.
