@@ -3,4 +3,4 @@ Repositório criado para o Desafio de Projeto, ou seja, tem por função relatar
 Além disso, o repositório armazena as soluções para os desafios propostos em diversas linguagens.
 
 ##Links úteis:
-[Sintaxe basca markdown](https://www.markdownguide.org/basic.sintax/)
+[Sintaxe básica markdown](https://www.markdownguide.org/basic.sintax/)
